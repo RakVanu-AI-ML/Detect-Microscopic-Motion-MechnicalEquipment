@@ -1,4 +1,4 @@
-numpy==1.21.5
+numpy
 imageio==2.9.0
 keras==2.8.0
 matplotlib==3.3.2
